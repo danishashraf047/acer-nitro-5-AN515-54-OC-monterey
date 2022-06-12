@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-[![](screenshots/new-version-screenshot.jpeg)](screenshots/new-version-screenshot.jpeg)
+[![](screenshots/new-version.jpeg)](screenshots/new-version.jpeg)
 [![](screenshots/screenshot-1.png)](screenshots/screenshot-1.png)
 [![](screenshots/screenshot-2.png)](screenshots/screenshot-2.png)
 [![](screenshots/screenshot-3.png)](screenshots/screenshot-3.png)
